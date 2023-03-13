@@ -1,0 +1,4 @@
+using <uname> command using host prompt
+answer: uname command not found
+using <uname> command using VM ubuntu/focal64
+answer: linux
